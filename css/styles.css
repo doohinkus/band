@@ -1,15 +1,26 @@
 .sidebar{
  float:right;
- background-color: purple;
- color:white;
+ width:500px;
+ background-color: yellow;
  padding:1em;
+ margin: 12px;
+ border: 8px solid green;
+
+
 }
 .content{
   clear:left;
   width:500px;
   padding:1em;
+  margin: 12px;
+  border: 2px solid green;
+  background-color: orange;
 }
 .left{
 float:left;
 padding:1em;
+
+}
+body {
+ vertical-align:bottom;
 }
